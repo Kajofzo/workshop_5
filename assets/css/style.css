@@ -4,7 +4,7 @@
     background-color: #d9d9d9;
 }
 
-#steen1 {
+.steen1 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -13,7 +13,7 @@
     margin-bottom: 5px;
 }
 
-#steen2 {
+.steen2 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -22,7 +22,7 @@
     margin-bottom: 5px;
 }
 
-#steen3 {
+.steen3 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -31,7 +31,7 @@
     margin-bottom: 5px;
 }
 
-#steen4 {
+.steen4 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -40,7 +40,7 @@
     margin-bottom: 5px;
 }
 
-#steen5 {
+.steen5 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -48,7 +48,7 @@
     margin-bottom: 5px;
 }
 
-#steen6 {
+.steen6 {
     background-color: orange;
     width: 70px;
     height: 25px;
@@ -57,7 +57,7 @@
     margin-bottom: 5px;
 }
 
-#steen7 {
+.steen7 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -66,7 +66,7 @@
     margin-bottom: 5px;
 }
 
-#steen8 {
+.steen8 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -75,7 +75,7 @@
     margin-bottom: 5px;
 }
 
-#steen9 {
+.steen9 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -83,7 +83,7 @@
     margin-right: 5px;
     margin-bottom: 5px;
 }
-#steen10 {
+.steen10 {
     background-color: orange;
     width: 120px;
     height: 25px;
@@ -91,7 +91,7 @@
     margin-bottom: 5px;
 }
 
-#steen11 {
+.steen11 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -100,7 +100,7 @@
     margin-bottom: 5px;
 }
 
-#steen12 {
+.steen12 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -109,7 +109,7 @@
     margin-bottom: 5px;
 }
 
-#steen13 {
+.steen13 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -118,7 +118,7 @@
     margin-bottom: 5px;
 }
 
-#steen14 {
+.steen14 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -127,7 +127,7 @@
     margin-bottom: 5px;
 }
 
-#steen15 {
+.steen15 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -136,7 +136,7 @@
     
 }
 
-#steen16 {
+.steen16 {
     background-color: orange;
     width: 70px;
     height: 25px;
@@ -145,7 +145,7 @@
     margin-bottom: 5px;
 }
 
-#steen17 {
+.steen17 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -154,7 +154,7 @@
     margin-bottom: 5px;
 }
 
-#steen18 {
+.steen18 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -163,7 +163,7 @@
     margin-bottom: 5px;
 }
 
-#steen19 {
+.steen19 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -172,7 +172,7 @@
     margin-bottom: 5px;
 }
 
-#steen20 {
+.steen20 {
     background-color: orange;
     width: 120px;
     height: 25px;
@@ -180,7 +180,7 @@
     margin-bottom: 5px;
 }
 
-#steen21 {
+.steen21 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -189,7 +189,7 @@
     margin-bottom: 5px;
 }
 
-#steen22 {
+.steen22 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -198,7 +198,7 @@
     margin-bottom: 5px;
 }
 
-#steen23 {
+.steen23 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -207,7 +207,7 @@
     margin-bottom: 5px;
 }
 
-#steen24 {
+.steen24 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -215,7 +215,7 @@
     margin-right: 5px;
     margin-bottom: 5px;
 }
-#steen25 {
+.steen25 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -223,7 +223,7 @@
     margin-bottom: 5px;
 }
 
-#steen26 {
+.steen26 {
     background-color: orange;
     width: 70px;
     height: 25px;
@@ -232,7 +232,7 @@
     margin-bottom: 5px;
 }
 
-#steen27 {
+.steen27 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -241,7 +241,7 @@
     margin-bottom: 5px;
 }
 
-#steen28 {
+.steen28 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -250,7 +250,7 @@
     margin-bottom: 5px;
 }
 
-#steen29 {
+.steen29 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -259,7 +259,7 @@
     margin-bottom: 5px;
 }
 
-#steen30 {
+.steen30 {
     background-color: orange;
     width: 120px;
     height: 25px;
@@ -267,7 +267,7 @@
     margin-bottom: 5px;
 }
 
-#steen31 {
+.steen31 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -276,7 +276,7 @@
     margin-bottom: 5px;
 }
 
-#steen32 {
+.steen32 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -285,7 +285,7 @@
     margin-bottom: 5px;
 }
 
-#steen33 {
+.steen33 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -294,7 +294,7 @@
     margin-bottom: 5px;
 }
 
-#steen34 {
+.steen34 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -303,7 +303,7 @@
     margin-bottom: 5px;
 }
 
-#steen35 {
+.steen35 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -311,7 +311,7 @@
     margin-bottom: 5px;
 }
 
-#steen36 {
+.steen36 {
     background-color: orange;
     width: 70px;
     height: 25px;
@@ -320,7 +320,7 @@
     margin-bottom: 5px;
 }
 
-#steen37 {
+.steen37 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -329,7 +329,7 @@
     margin-bottom: 5px;
 }
 
-#steen38 {
+.steen38 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -338,7 +338,7 @@
     margin-bottom: 5px;
 }
 
-#steen39 {
+.steen39 {
     background-color: orange;
     width: 100px;
     height: 25px;
@@ -346,7 +346,7 @@
     margin-right: 5px;
     margin-bottom: 5px;
 }
-#steen40 {
+.steen40 {
     background-color: orange;
     width: 120px;
     height: 25px;
