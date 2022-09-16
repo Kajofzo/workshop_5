@@ -5,7 +5,7 @@
 }
 
 .steen {
-    background-color: rgb(255, 6, 6) ;
+    background-color: rgb(255, 0, 174) ;
     height: 25px;
     width: 100px;
     display: inline-block;
@@ -25,6 +25,6 @@
     margin-right: 0px;
 }
 
-.blauw {    
-    background-color: blue;
+.geel {    
+    background-color: #ffe100;
 }
